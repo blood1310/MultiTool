@@ -103,30 +103,32 @@ git pull
 
 *To update a specific tool, simply delete its folder inside DownloadedTools and reselect it from the menu — it will be freshly re-cloned.*
 
-## Credits & Original Repositories
+# Credits & Original Repositories
 
-*This multi-tool automates the download and execution of the following amazing open-source projects. Huge thanks to their authors!*
+This multi-tool automates the download and execution of the following amazing open-source projects. Huge thanks to their authors!
 
-*- **Zphisher** → https://github.com/htr-tech/zphisher*
-*- **CamPhish** → https://github.com/techchipnet/CamPhish*
-*- **Whoami** → https://github.com/owerdogan/whoami-project*
-*- **IPGhost** → https://github.com/s-r-e-e-r-a-j/IPGhost*
-*- **TheFatRat** → https://github.com/screetsec/TheFatRat*
-*- **CUPP** → https://github.com/Mebus/cupp*
-*- **Seeker** → https://github.com/thewhiteh4t/seeker*
-*- **AngryOxide** → https://github.com/Ragnt/AngryOxide*
-*- **Fluxion** → https://github.com/FluxionNetwork/fluxion*
+| Tool         | Repository Link                                      |
+|--------------|------------------------------------------------------|
+| Zphisher     | https://github.com/htr-tech/zphisher                 |
+| CamPhish     | https://github.com/techchipnet/CamPhish              |
+| Whoami       | https://github.com/owerdogan/whoami-project          |
+| IPGhost      | https://github.com/s-r-e-e-r-a-j/IPGhost             |
+| TheFatRat    | https://github.com/screetsec/TheFatRat               |
+| CUPP         | https://github.com/Mebus/cupp                        |
+| Seeker       | https://github.com/thewhiteh4t/seeker                |
+| AngryOxide   | https://github.com/Ragnt/AngryOxide                  |
+| Fluxion      | https://github.com/FluxionNetwork/fluxion            |
 
-*Respect the original licenses and give proper credit when using these tools individually.*
-
-# Legal Disclaimer
+Respect the original licenses and give proper credit when using these tools individually.
+### Legal Disclaimer
  *This tool is intended only for educational purposes and authorized penetration testing.
 Use it exclusively on systems and networks you own or have explicit written permission to test.
-The author assumes no responsibility for any misuse or illegal activity.
-Enjoy responsibly! 🔥*
+The author assumes no responsibility for any misuse or illegal activity.*
 
-***Repository: https://github.com/blood1310/MultiTool***
+## Enjoy responsibly! 🔥
 
-*Made with 🔥 by [blood1310](https://github.com/blood1310)*
+---
 
-
+<div align="center">
+  Made with 🔥 by <a href="https://github.com/blood1310">blood1310</a>
+</div>
